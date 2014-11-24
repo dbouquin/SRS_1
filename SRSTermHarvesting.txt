@@ -1,0 +1,192 @@
+Technology terms:
+
+Requestor suggestions: computer-based, computer-assisted, computer systems, smartphone, app or application, electronic, "personal digital assistant" or PDA, palm-top
+
+Selected terms for PubMed search:
+
+1.
+[MeSH] Computer Systems - Explode
+	http://www.ncbi.nlm.nih.gov/mesh/68003199
+	Information Science Category
+		Information Science
+			Computing Methodologies
+				Computer Systems
+					Computer Communication Networks
+						Internet +
+						Local Area Networks
+					Computers
+						Computer Peripherals +
+						Computers, Analog
+						Computers, Hybrid +
+						Computers, Mainframe
+						Computers, Molecular
+						Microcomputers +
+						Minicomputers
+
+2.
+[MeSH] Software - Explode *note: "Software" includes "Mobile Applications"
+	http://www.ncbi.nlm.nih.gov/mesh/68012984
+	All MeSH Categories
+		Information Science Category
+			Information Science
+				Computing Methodologies
+					Software
+						Database Management Systems
+						Grateful Med
+						Hypermedia
+						Mobile Applications
+						Programming Languages
+						Software Design
+						Software Validation
+						Speech Recognition Software
+						User-Computer Interface
+						Video Games
+						Web Browser
+						Word Processing
+
+3.
+[MeSH] Computers, Handheld
+	http://www.ncbi.nlm.nih.gov/mesh/68034201
+	All MeSH Categories
+		Information Science Category
+			Information Science
+				Computing Methodologies
+					Computer Systems
+						Computers
+							Microcomputers
+								Computers, Handheld
+
+4.
+[MeSH] Cellular Phone - Explode
+	http://www.ncbi.nlm.nih.gov/mesh/?term=mobile+phone
+	All MeSH Categories
+		Information Science Category
+		Information Science
+			Communications Media
+				Telecommunications
+					Telephone
+						Cellular Phone
+							Text Messaging
+
+5.
+[MeSH] Telemedicine - Explode (three hierarchical trees) -- "Telemedicine*/trends; Telemedicine*/utilization" in other review
+	See Also: Telemetry											
+		All MeSH Categories
+			Disciplines and Occupations Category
+				Health Occupations
+					Medicine
+						Telemedicine
+							Telepathology
+							Teleradiology
+	All MeSH Categories
+		Information Science Category
+			Information Science
+				Communications Media
+					Telecommunications
+						Telemedicine
+							Remote Consultation
+							Telepathology
+							Teleradiology
+	All MeSH Categories
+		Health Care Category
+			Health Services Administration
+				Patient Care Management
+					Delivery of Health Care
+						Telemedicine
+							Remote Consultation
+							Telepathology
+							Teleradiology
+
+6.
+[MeSH] Information Systems - Explode?
+		All MeSH Categories
+			Information Science Category
+				Information Science
+					Medical Informatics
+						Medical Informatics Applications
+							Information Systems
+								Clinical Laboratory Information Systems
+								Community Networks
+								Databases as Topic
+									Databases, Bibliographic +
+									Databases, Factual +
+								Decision Support Systems, Clinical
+								Geographic Information Systems
+								Health Information Systems
+								Hospital Information Systems
+									Medical Order Entry Systems
+								Integrated Advanced Information Management Systems
+								Knowledge Bases
+									Biological Ontologies +
+								Management Information Systems
+									Ambulatory Care Information Systems
+									Clinical Laboratory Information Systems
+									Clinical Pharmacy Information Systems
+									Database Management Systems
+									Decision Support Systems, Management
+									Healthcare Common Procedure Coding System
+									Hospital Information Systems +
+									Personnel Staffing and Scheduling Information Systems
+									Radiology Information Systems
+								Medical Records Systems, Computerized
+									Medical Order Entry Systems
+								MEDLARS
+									MEDLINE
+								Online Systems
+									Libraries, Digital
+									PubMed +
+								Radiology Information Systems
+								Reminder Systems
+
+7. 
+[MeSH] Internet - No explode?
+All MeSH Categories
+	Information Science Category
+		Information Science
+			Computing Methodologies
+				Computer Systems
+					Computer Communication Networks
+						Internet
+							Blogging
+							Social Media
+
+8.
+[Text] "computer assisted" *Number of results the same for "comuter-assisted"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=%22computer+assisted%22
+
+9.
+[Text] "computer aided" *Number of results the same for "computer-aided"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=%22computer+aided%22
+
+10.
+[Text] "smartphone"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=smartphone
+
+11.
+[Text] "telemedicine"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=telemedicine
+
+12.
+[Text] "software"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=software
+
+13.
+[Text] "web based"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=%22web+based%22
+
+14.
+[Text] "web enabled"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=%22web+enabled%22
+
+15. 
+[Text] "e-health"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=%22e-health%22
+
+16.
+[Text] "interactive"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=interactive
+
+17.
+[Text] "internet"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=internet
+

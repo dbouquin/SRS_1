@@ -6,7 +6,7 @@ Requestor suggestions: computer-based, computer-assisted, computer systems, smar
 
 Selected terms for PubMed search:
 
-1.
+1. *Likely just be able to truncate compute* as [Text]
 [MeSH] Computer Systems - Explode
 	http://www.ncbi.nlm.nih.gov/mesh/68003199
 	Information Science Category
@@ -100,7 +100,7 @@ Selected terms for PubMed search:
 							Teleradiology
 
 6.
-[MeSH] Information Systems - Explode?
+[MeSH] Information Systems - Explode
 		All MeSH Categories
 			Information Science Category
 				Information Science
@@ -141,7 +141,7 @@ Selected terms for PubMed search:
 								Reminder Systems
 
 7. 
-[MeSH] Internet - No explode?
+[MeSH] Internet - No explode
 All MeSH Categories
 	Information Science Category
 		Information Science

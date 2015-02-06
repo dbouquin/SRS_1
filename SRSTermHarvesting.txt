@@ -26,29 +26,6 @@ http://www.ncbi.nlm.nih.gov/mesh/68003201
 		Microcomputers +
 		Minicomputers
 
-2.
-[MeSH] Software - No Explode 
-* Exploding "Software" would include too many development articles
-* "Software" includes "Mobile Applications"
-	http://www.ncbi.nlm.nih.gov/mesh/68012984
-	All MeSH Categories
-		Information Science Category
-			Information Science
-				Computing Methodologies
-					Software
-						Database Management Systems
-						Grateful Med
-						Hypermedia
-						Mobile Applications
-						Programming Languages
-						Software Design
-						Software Validation
-						* Speech Recognition Software - Keep as keyword and separate MeSH search
-						* User-Computer Interface - Keep as keyword and separate MeSH search
-						* Video Games - Keep as keyword and separate MeSH search
-						* Web Browser - Keep as keyword and separate MeSH search
-						Word Processing
-
 3.
 [MeSH] Speech Recognition Software
 http://www.ncbi.nlm.nih.gov/mesh/?term=speech+recognition+software

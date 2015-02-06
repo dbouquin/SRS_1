@@ -6,27 +6,30 @@ Requestor suggestions: computer-based, computer-assisted, computer systems, smar
 
 Selected terms for PubMed search:
 
-1. *Likely just be able to truncate compute* as [Text]
-[MeSH] Computer Systems - Explode
-	http://www.ncbi.nlm.nih.gov/mesh/68003199
-	Information Science Category
-		Information Science
-			Computing Methodologies
-				Computer Systems
-					Computer Communication Networks
-						Internet +
-						Local Area Networks
-					Computers
-						Computer Peripherals +
-						Computers, Analog
-						Computers, Hybrid +
-						Computers, Mainframe
-						Computers, Molecular
-						Microcomputers +
-						Minicomputers
+1. 
+[MeSH] Internet- Explode 
+* Computer Systems too broad/not relevant
+http://www.ncbi.nlm.nih.gov/mesh/?term=internet    
+    Internet
+        Blogging
+        Social Media
+
+2. 
+[MeSH] Computers- No Explode
+http://www.ncbi.nlm.nih.gov/mesh/68003201
+	Computers
+		Computer Peripherals + 
+		Computers, Analog 
+		Computers, Hybrid + 
+		Computers, Mainframe 
+		Computers, Molecular 
+		Microcomputers +
+		Minicomputers
 
 2.
-[MeSH] Software - Explode *note: "Software" includes "Mobile Applications"
+[MeSH] Software - No Explode 
+* Exploding "Software" would include too many development articles
+* "Software" includes "Mobile Applications"
 	http://www.ncbi.nlm.nih.gov/mesh/68012984
 	All MeSH Categories
 		Information Science Category
@@ -40,14 +43,65 @@ Selected terms for PubMed search:
 						Programming Languages
 						Software Design
 						Software Validation
-						Speech Recognition Software
-						User-Computer Interface
-						Video Games
-						Web Browser
+						* Speech Recognition Software - Keep as keyword and separate MeSH search
+						* User-Computer Interface - Keep as keyword and separate MeSH search
+						* Video Games - Keep as keyword and separate MeSH search
+						* Web Browser - Keep as keyword and separate MeSH search
 						Word Processing
 
 3.
-[MeSH] Computers, Handheld
+[MeSH] Speech Recognition Software
+http://www.ncbi.nlm.nih.gov/mesh/?term=speech+recognition+software
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Computing Methodologies
+                    Software
+                        Speech Recognition Software
+
+4.
+[MeSH] User Computer Interface
+http://www.ncbi.nlm.nih.gov/mesh/?term=user-computer+interface
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Computing Methodologies
+                    Software
+                        User-Computer Interface
+
+5.
+Video Games
+http://www.ncbi.nlm.nih.gov/mesh/?term=video+games
+    All MeSH Categories
+        Anthropology, Education, Sociology and Social Phenomena Category
+            Human Activities
+                Leisure Activities
+                    Recreation
+                        Play and Playthings
+                            Video Games
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Computing Methodologies
+                    Software
+                        Video Games
+
+6. Web Browser
+http://www.ncbi.nlm.nih.gov/mesh/?term=web+browser
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Computing Methodologies
+                    Software
+                        Web Browser
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Information Storage and Retrieval
+                    Web Browser
+
+
+7. [MeSH] Computers, Handheld
 	http://www.ncbi.nlm.nih.gov/mesh/68034201
 	All MeSH Categories
 		Information Science Category
@@ -58,7 +112,7 @@ Selected terms for PubMed search:
 							Microcomputers
 								Computers, Handheld
 
-4.
+8.
 [MeSH] Cellular Phone - Explode
 	http://www.ncbi.nlm.nih.gov/mesh/?term=mobile+phone
 	All MeSH Categories
@@ -70,8 +124,9 @@ Selected terms for PubMed search:
 						Cellular Phone
 							Text Messaging
 
-5.
+9.
 [MeSH] Telemedicine - Explode (three hierarchical trees) -- "Telemedicine*/trends; Telemedicine*/utilization" in other review
+* This will get a lot of false positives, but weeding will be done with human screening (as discussed in client meeting 1/15/15)
 	See Also: Telemetry											
 		All MeSH Categories
 			Disciplines and Occupations Category
@@ -99,98 +154,111 @@ Selected terms for PubMed search:
 							Telepathology
 							Teleradiology
 
-6.
-[MeSH] Information Systems - Explode
-		All MeSH Categories
-			Information Science Category
-				Information Science
-					Medical Informatics
-						Medical Informatics Applications
-							Information Systems
-								Clinical Laboratory Information Systems
-								Community Networks
-								Databases as Topic
-									Databases, Bibliographic +
-									Databases, Factual +
-								Decision Support Systems, Clinical
-								Geographic Information Systems
-								Health Information Systems
-								Hospital Information Systems
-									Medical Order Entry Systems
-								Integrated Advanced Information Management Systems
-								Knowledge Bases
-									Biological Ontologies +
-								Management Information Systems
-									Ambulatory Care Information Systems
-									Clinical Laboratory Information Systems
-									Clinical Pharmacy Information Systems
-									Database Management Systems
-									Decision Support Systems, Management
-									Healthcare Common Procedure Coding System
-									Hospital Information Systems +
-									Personnel Staffing and Scheduling Information Systems
-									Radiology Information Systems
-								Medical Records Systems, Computerized
-									Medical Order Entry Systems
-								MEDLARS
-									MEDLINE
-								Online Systems
-									Libraries, Digital
-									PubMed +
-								Radiology Information Systems
-								Reminder Systems
+10.
+[MeSH] Community Networks
+http://www.ncbi.nlm.nih.gov/mesh/?term=community+networks
+    All MeSH Categories
+        Anthropology, Education, Sociology and Social Phenomena Category
+            Social Sciences
+                Sociology
+                    Sociological Factors
+                        Social Environment
+                            Community Networks
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Medical Informatics
+                    Medical Informatics Applications
+                        Information Systems
+                            Community Networks
+    All MeSH Categories
+        Health Care Category
+            Health Care Facilities, Manpower, and Services
+                Health Services
+                    Community Health Services
+                        Community Networks
+11.
+[MeSH] Decision Support Systems, Clinical
+http://www.ncbi.nlm.nih.gov/mesh/?term=clinical+decision+support+systems
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Medical Informatics
+                    Medical Informatics Applications
+                        Information Systems
+                            Decision Support Systems, Clinical
 
-7. 
-[MeSH] Internet - No explode
-All MeSH Categories
-	Information Science Category
-		Information Science
-			Computing Methodologies
-				Computer Systems
-					Computer Communication Networks
-						Internet
-							Blogging
-							Social Media
+12.
+[MeSH] Reminder Systems
+http://www.ncbi.nlm.nih.gov/mesh/?term=reminder+systems
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Communication
+                    Reminder Systems
 
-8.
+    All MeSH Categories
+        Information Science Category
+            Information Science
+                Medical Informatics
+                    Medical Informatics Applications
+                        Information Systems
+                            Reminder Systems
+
+13.
 [Text] "computer assisted" *Number of results the same for "comuter-assisted"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=%22computer+assisted%22
 
-9.
+14.
 [Text] "computer aided" *Number of results the same for "computer-aided"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=%22computer+aided%22
 
-10.
+15.
 [Text] "smartphone"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=smartphone
 
-11.
+16.
+[Text] "cell phone" - need many variations of cell phone (e.g. cellular phone)
+
+17.
 [Text] "telemedicine"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=telemedicine
 
-12.
+18.
 [Text] "software"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=software
 
-13.
+19.
 [Text] "web based"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=%22web+based%22
 
-14.
+20.
 [Text] "web enabled"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=%22web+enabled%22
 
-15. 
+21. 
 [Text] "e-health"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=%22e-health%22
 
-16.
+22.
 [Text] "interactive"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=interactive
 
-17.
+23.
 [Text] "internet"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=internet
 
-** Need to review protocol **
+24.
+[Text] "community network"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=community+network
+
+25.
+[Text] "social media"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=social+media
+
+26.
+[Text] "human computer interaction"
+http://www.ncbi.nlm.nih.gov/pubmed/?term=%22human+computer+interaction%22
+
+
 

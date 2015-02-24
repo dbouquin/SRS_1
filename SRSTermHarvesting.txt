@@ -197,6 +197,8 @@ http://www.ncbi.nlm.nih.gov/pubmed/?term=smartphone
 16.
 [Text] "cell phone" - need many variations of cell phone (e.g. cellular phone)
 
+        ** All cell phone related terms can be input into Ovid as ((car OR mobile OR cell*) adj phone*)
+
 17.
 [Text] "telemedicine"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=telemedicine
@@ -226,7 +228,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/?term=interactive
 http://www.ncbi.nlm.nih.gov/pubmed/?term=internet
 
 24.
-[Text] "community network"
+[Text] "community network*"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=community+network
 
 25.
@@ -234,7 +236,7 @@ http://www.ncbi.nlm.nih.gov/pubmed/?term=community+network
 http://www.ncbi.nlm.nih.gov/pubmed/?term=social+media
 
 26.
-[Text] "human computer interaction"
+[Text] "human computer interact*"
 http://www.ncbi.nlm.nih.gov/pubmed/?term=%22human+computer+interaction%22
 
 27.
